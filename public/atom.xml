@@ -3,7 +3,7 @@
   <title>MatKurianski's Blog</title>
   <link href="https://github.com/borkdude/quickblog/atom.xml" rel="self"/>
   <link href="https://github.com/borkdude/quickblog"/>
-  <updated>2022-12-11T23:48:48+00:00</updated>
+  <updated>2022-12-14T23:36:11+00:00</updated>
   <id>https://github.com/borkdude/quickblog</id>
   <author>
     <name>Quick Blogger</name>
@@ -11,7 +11,7 @@
   <entry>
     <id>https://github.com/borkdude/quickblog/test.html</id>
     <link href="https://github.com/borkdude/quickblog/test.html"/>
-    <title>Test</title>
+    <title>Test 2</title>
     <updated>2022-12-11T23:59:59+00:00</updated>
     <content type="html">
       <![CDATA[<p>Write a blog post here!</p>]]>
