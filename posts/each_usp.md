@@ -52,7 +52,13 @@ De qualquer forma, meu objetivo era fazer USP pois sempre foi um sonho para mim.
 
 Um outro problema é que o curso era matutino, tendo algumas aulas a tarde além de manhã, o que eu achava que poderia atrapalhar para eu arranjar um estágio.
 
-Fiquei sabendo que a grade curricular do IME-USP mudou e na verdade aposto que hoje tem ainda mais semelhanças com Sistemas de Informação que diferenças. Uma coisa que com certeza a EACH tem de diferente é o **Ciclo Básico**, uma série de matérias comuns a todos os cursos da unidade (cursos como Educação Física e Saúde, Biotecnologia, Gestão de Políticas Públicas, Têxtil e Moda...), são elas:
+Já que mencionei estágio, fica um detalhe importante:
+
+> ### No mercado de trabalho, tanto o bacharel de CC quanto o de SI irão disputar as mesmas vagas. Fazer uma faculdade ou outra não vai te fechar porta alguma.
+
+Eu tendo a pensar que Ciência da Computação possa ter uma ênfase na carreira acadêmica, o que talvez seja muito interessante para quem já entre com esse objetivo. Mas é preciso deixar claro que um bacharel em Sistemas de Informação também pode seguir por esse caminho e vi alunos fazendo justamente isso.
+
+Voltando a falar sobre grade curricular, fiquei sabendo que a grade curricular do IME-USP mudou e na verdade aposto que hoje tem ainda mais semelhanças com Sistemas de Informação que diferenças. Uma coisa que com certeza a EACH tem de diferente é o **Ciclo Básico**, uma série de matérias comuns a todos os cursos da unidade (cursos como Educação Física e Saúde, Biotecnologia, Gestão de Políticas Públicas, Têxtil e Moda...), são elas:
 
 - Tratamento e Análise de Dados / Informações (TADI)
 - Resolução de Problemas (RP)
