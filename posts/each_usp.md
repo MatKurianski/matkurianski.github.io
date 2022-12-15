@@ -10,11 +10,11 @@ Tags: each-usp
 <br/>
 Na data que escrevo esse post, alguns amigos me mandaram uma mensagem avisando que **Computação foi um dos cursos mais concorridos da Fuvest 2023.** Não sei exatamente o que mudou nos 5 anos desde que me formei mas fiquei realmente surpreso! Quando saí do Ensino Médio eu era um dos poucos alunos que tinha computação como curso de escolha, o que até hoje me surpreende pois além de ser uma área que não falta trabalho ela é bastante diversificada e divertida.
 
-Um dos primeiros problemas que o vestibulando que quer ingressar na área é qual curso escolher. Alguns são direto ao ponto: **vou prestar para Ciência da Computação**, que é uma escolha fácil pelo simples destaque de "Computação" no nome. Eu que fiz Sistemas de Informação, e estudei em uma sala onde uma parcela considerável **tinha Ciência da Compução como primeira opção**, alguns até considerando tentar transferência interna para o curso após alguns semestres.
+Um dos primeiros problemas que o vestibulando que quer ingressar na área é qual curso escolher. Alguns são direto ao ponto: **vou prestar para Ciência da Computação**, que é uma escolha fácil pelo simples destaque de "Computação" no nome. Eu que fiz Sistemas de Informação e estudei em uma sala onde uma parcela considerável **tinha Ciência da Compução como primeira opção**, alguns até considerando tentar transferência interna para o curso após alguns semestres.
 
-E levava um semestre para eles desistirem da ideia e se conformarem com Sistemas de Informação. **E um ou dois semestres a frente para entenderem que sempre quiseram Sistemas de Informação mesmo sem saber**.
+E levava um semestre para eles desistirem da ideia e se conformarem com o curso que estavam. **E um ou dois semestres a frente para entenderem que o curso que idealizavam quando queriam ir para computação era Sistemas de Informação o tempo todo!**.
 
-Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas diferente de alguns colegas que citei **Sistemas de Informação sempre foi minha primeira opção**. O intuito desse post é compartilhar minha experiência sobre minha graduação, responder dúvidas que pré-vestibulando que tive contato tiraram comigo e quem sabe tirar esse peso da dúvida sobre qual curso ir das suas costas!
+Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas diferente de alguns colegas que citei **meu curso sempre foi minha primeira opção**. O intuito desse post é compartilhar minha experiência sobre minha graduação, responder dúvidas que pré-vestibulando que tive contato tiraram comigo e quem sabe tirar esse peso da dúvida sobre qual curso ir das suas costas!
 <br/ >
 <br/ >
 ## Quem sou eu?
@@ -52,7 +52,7 @@ De qualquer forma, meu objetivo era fazer USP pois sempre foi um sonho para mim.
 
 Um outro problema é que o curso era matutino, tendo algumas aulas a tarde além de manhã, o que eu achava que poderia atrapalhar para eu arranjar um estágio.
 
-Fiquei sabendo que a grade curricular do IME-USP mudou, e na verdade aposto que hoje tem ainda mais semelhanças com Sistemas de Informação que diferenças. Uma coisa que com certeza a EACH tem de diferente é o **Ciclo Básico**, uma série de matérias comuns a todos os cursos da unidade (cursos como Educação Física e Saúde, Biotecnologia, Gestão de Políticas Públicas, Têxtil e Moda...), são eles:
+Fiquei sabendo que a grade curricular do IME-USP mudou e na verdade aposto que hoje tem ainda mais semelhanças com Sistemas de Informação que diferenças. Uma coisa que com certeza a EACH tem de diferente é o **Ciclo Básico**, uma série de matérias comuns a todos os cursos da unidade (cursos como Educação Física e Saúde, Biotecnologia, Gestão de Políticas Públicas, Têxtil e Moda...), são eles:
 
 - Tratamento e Análise de Dados / Informações (TADI)
 - Resolução de Problemas (RP)
@@ -69,7 +69,7 @@ Eu super entendo se você torcer o nariz para elas só de ler os nomes, tem incl
 <br/ >
 O curso é muito completo mas também generalista. Isso quer dizer que você vai ser exposto a uma grande variedade de conteúdos mas sem se aprofundar muito em certos assuntos. Honestamente, acredito que isso é uma grande vantagem visto que você terá uma base generalista onde poderá se aprofundar em alguma área de interesse, sendo por meio de optativas, estudo por fora ou estágio na área.
 
-Uma das maiores surpresas de um calouro em tecnologia é descobrir que **a faculdade não vai te deixar totalmente pronto pro mercado de trabalho**, o que vai te exigir estudos por fora. Isso se deve porque a área está em constante mudança e inovação e qualquer currículo que tentasse acompanhar essa evolução ficaria facilmente defasado.
+Uma das maiores surpresas de um calouro em tecnologia é descobrir que **a faculdade não vai te deixar totalmente pronto pro mercado de trabalho**, o que vai te exigir estudos por fora. Isso se deve porque a área está em constante mudança e inovação, de modo que qualquer currículo que tentasse acompanhar essa evolução ficaria facilmente defasado.
 
 O que você vai aprender é uma base e teoria comum que irá te auxiliar seja qual for a tecnologia ou sua área de especialização! Bacana não é? :)
 
@@ -77,7 +77,7 @@ Segue algumas matérias do curso:
 
 - Introdução à Programação: **vai te ensinar lógica de programação do zero**
 - Organização e Arquitetura de Computadores I: vai entender um pouco de como um computador funciona e processa comandos que foram programados
-- Bancos de Dados 1: seus dados precisam estar em algum lugar. Já imaginou se cada vez que você reiniciasse o computador você perderia tudo?
+- Bancos de Dados 1: seus dados precisam estar em algum lugar. Já imaginou se cada vez que você reiniciasse o computador você perdesse tudo?
 - Sistemas Operacionais: você vai aprender que Linux é melhor que Windows (ou não, e tudo bem!)
 - Inteligência Artificial: difícil, mas empolgante (alerta de estatística pra caramba)
 - Empreendedorismo em Informática: TI tem MUITO espaço para empreender, então ter aula disso faz super sentido!
