@@ -86,6 +86,35 @@ Segue algumas matérias do curso:
 A grade curricular completa com descrições mais úteis [você encontra aqui.](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)
 <br/ >
 <br/ >
+
+## Preciso saber programar antes de ir? Quais linguagens de programação o curso aborda?
+<br/ >
+Definitivamente não. Várias pessoas entram já tendo algum curso técnico na área mas também há várias que assim como eu chegaram totalmente cruas e seguem com o curso sem problema nenhum!
+
+Minha turma teve uma particularidade onde tivemos um professor em Fundamentos de Sistemas de Informação que queria que criássemos um sistema completo (como site, jogo, aplicativo...) do zero durante o **primeiro semestre da graduação.** A notícia foi assustadora mas deu tudo muito certo e foi uma das matérias mais marcantes e gratificantes que já tive na graduação.
+
+<br/>
+<center>
+    <img width=800 src="assets/comidinhas.png" />
+    <p>Meu primeiro site, em desastrosas linhas de PHP!</p>
+</center>
+<br/>
+
+Ao longo da graduação você provavelmente vai ter contato com uma infinidade de linguagens e em algumas matérias vai ser livre para escolher a que gostar mais. Algumas das que tive contato:
+
+- C/C++
+- Java
+- Kotlin
+- C#
+- PHP
+- Ruby
+- Pascal
+- Javascript
+- Python
+- R
+
+<br/ >
+<br/ >
 ## Você disse matemática? Preciso ser bom para entrar em TI?
 <br/ >
 Precisa: para passar nas provas.
