@@ -159,4 +159,9 @@ Excelente. Não sei como elaborar melhor do que isso.
 <br/>
 <br/>
 <hr>
-## A ideia desse post é estar sempre em evolução, então se tiver interesse de saber mais cola aqui e vez em quando!
+## A ideia desse post é estar sempre em evolução, então se tiver interesse de saber mais cola aqui de vez em quando! Enquanto espera, segue o vídeo institucional do curso (até eu apareço nele!):
+<br/>
+<br/>
+<center>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/i46xm8kqAC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>
