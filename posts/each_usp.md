@@ -125,10 +125,10 @@ Ao longo da graduação você provavelmente vai ter contato com uma infinidade d
 <br/ >
 ## Você disse matemática? Preciso dela para trabalhar TI?
 <br/ >
-Precisa: para passar nas provas.
+Sendo honesto, para muita gente precisa mais para passar nas provas.
 <br/ >
 
-Sendo honesto, existem áreas em TI onde habilidades matemáticas e estatísticas são realmente muito importantes, como Ciência de Dados
+Existem áreas em TI onde habilidades matemáticas e estatísticas são realmente muito importantes, como Ciência de Dados, Business Analytics...
 
 **> Sabe a "Inteligência Artificial" que você tanto já ouviu falar? É muito cálculo e estatística envolvidos!**
 
