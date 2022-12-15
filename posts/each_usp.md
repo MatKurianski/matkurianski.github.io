@@ -4,7 +4,7 @@ Tags: each-usp
 
 <br/>
 <center>
-    <img width=800 src="assets/foto_each.jpg" />
+    <img width="100%" src="assets/foto_each.jpg" />
     <p>EACH-USP, campus onde me formei Bacharel em Sistemas de Informação</p>
 </center>
 <br/>
@@ -31,7 +31,7 @@ Dito isso, sobrevivi a vida acadêmica e adquiri uma vivência considerável no 
 <br />
 <br />
 <center>
-    <img width=400 src="assets/eu_faculdade.jpg" />
+    <img width="50%" src="assets/eu_faculdade.jpg" />
     <p>Apresento a vocês: eu na faculdade</p>
 </center>
 
@@ -95,7 +95,7 @@ Minha turma teve uma particularidade onde tivemos um professor em Fundamentos de
 
 <br/>
 <center>
-    <img width=800 src="assets/comidinhas.png" />
+    <img width="100%" src="assets/comidinhas.png" />
     <p>Meu primeiro site, em desastrosas linhas de PHP!</p>
 </center>
 <br/>
@@ -163,5 +163,5 @@ Excelente. Não sei como elaborar melhor do que isso.
 <br/>
 <br/>
 <center>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/i46xm8kqAC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" src="https://www.youtube.com/embed/i46xm8kqAC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
