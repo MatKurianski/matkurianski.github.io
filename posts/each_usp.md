@@ -154,7 +154,9 @@ Esse segundo ponto tem um detalhe importante: **a pandemia pode ter mudado e mui
 <br/ >
 Excelente. Não sei como elaborar melhor do que isso.
 
-É uma ilusão que sem estudar por fora da faculdade as principais tecnologias do mercado e fazer alguns projetinhos você já vai estrear no mercado ganhando salários espetaculares, mas o ponto é que o esforço em TI é muito melhor recompensado que em muita área por aí.
+É uma ilusão que sem estudar por fora da faculdade as principais tecnologias do mercado e fazer alguns projetinhos você já vai estrear no mercado ganhando salários espetaculares, mas o ponto é que o esforço em TI é muito melhor recompensado que em muita área por aí. É exagero dizer que se você derrubar o currículo na porta da empresa vai garantir o emprego, mas considerando o panorama geral e o cenário macroeconômico complicado pós pandemia TI é uma área excelente.
+
+A partir do terceiro ano da faculdade muita gente já começa a buscar estágio e até o final do curso (que dura de 4 a 6 anos, dependendo das reprovações) muita gente já está muito bem colocada no mercado de trabalho.
 <br/>
 <br/>
 <br/>
