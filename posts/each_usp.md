@@ -56,12 +56,14 @@ Fiquei sabendo que a grade curricular do IME-USP mudou e na verdade aposto que h
 
 - Tratamento e Análise de Dados / Informações (TADI)
 - Resolução de Problemas (RP)
-- Sociedade, Multiculturalismo e Direitos (SMC)
+- Sociedade, Multiculturalismo e Direitos (SMD)
 - Psicologia, Educação e Temas Contemporâneos (PEC)
 - Arte, Literatura e Cultura (ALC)
 - Ciências da Natureza (CN)
 
-Eu super entendo se você torcer o nariz para elas só de ler os nomes, tem inclusive alunos (e professores) do curso que se pudessem se livrariam totalmente do Ciclo Básico. Eu mesmo não sou o maior fã mas no final das contas algumas matérias foram até bem divertidas. Lembro das aulas de SMC onde a professora falava de futurologia, foi um exercício bem divertido para tentarmos adivinhar o futuro da humanidade, ciência e tecnologia :)
+Eu super entendo se você torcer o nariz para elas só de ler os nomes, tem inclusive alunos (e professores) do curso que se pudessem se livrariam totalmente do Ciclo Básico. Eu mesmo não sou o maior fã mas no final das contas algumas matérias foram até bem divertidas. Lembro das aulas de SMD onde a professora falava de futurologia, foi um exercício bem divertido para tentarmos adivinhar o futuro da humanidade, ciência e tecnologia. Fazer um artigo projetando sobre o impacto das Fake News nas eleições de 2018 com alunos de Marketing e Gestão de Políticas Públicas também foi um exercício muito interessante.
+
+No geral, o saldo do Ciclo Básico terminou positivo pra mim, e sinto que ajudou a me mostrar o quanto tecnologia é uma multidisciplinar e que **construímos código para pessoas e não para máquinas,** e que podemos aplicar nossos conhecimentos para resolver problemas reais e tornar a sociedade um lugar um pouco melhor. Sei de alunos que inclusive foram trabalhar com tecnologia aplicada na política e meio ambiente.
 <br/ >
 <br/ >
 
