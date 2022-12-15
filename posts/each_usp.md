@@ -115,7 +115,7 @@ Ao longo da graduação você provavelmente vai ter contato com uma infinidade d
 
 <br/ >
 <br/ >
-## Você disse matemática? Preciso ser bom para entrar em TI?
+## Você disse matemática? Preciso dela para trabalhar TI?
 <br/ >
 Precisa: para passar nas provas.
 <br/ >
@@ -136,6 +136,8 @@ Então a verdade é que depende muito da área que você deseja atuar. Eu pessoa
 E outras...
 
 **> Te assustou? Não desanime :) eu consegui passar por isso e você também vai!**
+
+Agora, 1 ano depois de formado eu passo longe de praticamente todo o conteúdo que aprendi nessas matérias. No máximo uma ou outra coisa que acabo vendo analistas de negócio ou cientistas de dados de onde trabalho usando, mas de longe e sem necessidade nenhuma de eu entender.
 <br/ >
 <br/ >
 ## Por que EACH e não ICMC?
