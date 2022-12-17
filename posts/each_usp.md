@@ -69,7 +69,7 @@ Voltando a falar sobre grade curricular, fiquei sabendo que a grade curricular d
 
 Eu super entendo se você torcer o nariz para elas só de ler os nomes, tem inclusive alunos (e professores) do curso que se pudessem se livrariam totalmente do Ciclo Básico. Eu mesmo não sou o maior fã mas no final das contas algumas matérias foram até bem divertidas. Lembro das aulas de SMD onde a professora falava de futurologia, foi um exercício bem divertido para tentarmos adivinhar o futuro da humanidade, ciência e tecnologia. Fazer um artigo projetando sobre o impacto das Fake News nas eleições de 2018 com alunos de Marketing e Gestão de Políticas Públicas também foi um exercício muito interessante.
 
-No geral, o saldo do Ciclo Básico terminou positivo pra mim, e sinto que ajudou a me mostrar o quanto tecnologia é uma multidisciplinar e que **construímos código para pessoas e não para máquinas,** e que podemos aplicar nossos conhecimentos para resolver problemas reais e tornar a sociedade um lugar um pouco melhor. Sei de alunos que inclusive foram trabalhar com tecnologia aplicada na política e meio ambiente.
+No geral, o saldo do Ciclo Básico terminou positivo pra mim, e sinto que ajudou a me mostrar o quanto tecnologia é uma área multidisciplinar e que **construímos código para pessoas e não para máquinas,** e podemos aplicar nossos conhecimentos para resolver problemas reais e tornar a sociedade um lugar um pouco melhor. Sei de alunos que inclusive foram trabalhar com tecnologia aplicada na política e meio ambiente.
 <br/ >
 <br/ >
 
