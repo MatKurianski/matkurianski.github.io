@@ -22,10 +22,10 @@ Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas 
 Acho que vale uma apresentação antes de continuar com todo o papo (:
 
 - Ingressei em Sistemas de Informação na **Escola de Artes, Ciências e Humanidades da USP (EACH-USP)** em 2018
-- Em 2019, comecei meu primeiro estágio no Pagseguro Pagbank na área de ciência de dados
-- Em 2020, comecei a trabalhar como Engenheiro de Software Júnior no Itaú Unibanco onde saí no começo de 2021 já como Engenheiro de Software Pleno
-- Em 2021, comecei a trabalhar como Engenheiro de Software Pleno no Nubank onde estou até hoje
+- Em 2020, comecei meu primeiro estágio no Pagseguro Pagbank na área de ciência de dados
+- Em 2021, comecei a trabalhar como Engenheiro de Software Júnior no Itaú Unibanco. Quase 1 ano depois, fui promovido a Engenheiro de Software Pleno.
 - No final de 2021, me formei como **bacharel em Sistemas de Informação**
+- Em 2022, comecei a trabalhar como Engenheiro de Software Pleno no Nubank onde estou até hoje
 
 Dito isso, sobrevivi a vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de modo que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
 <br />
