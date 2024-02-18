@@ -8,11 +8,11 @@ Tags: each-usp
     <p>EACH-USP, campus onde me formei bacharel em Sistemas de Informação</p>
 </center>
 <br/>
-Na data que escrevo esse post, alguns amigos me mandaram uma mensagem avisando que **Computação foi um dos cursos mais concorridos da Fuvest 2023.** Não sei exatamente o que mudou nos 5 anos desde que entrei na faculdade e saí 1 ano atrás, mas fiquei realmente surpreso! Quando saí do Ensino Médio eu era um dos poucos alunos que tinha computação como curso de escolha, o que até hoje me surpreende pois além de ser uma área que não falta trabalho ela é bastante diversificada e divertida.
+###
 
 Um dos primeiros problemas que o vestibulando que quer ingressar na área é qual curso escolher. Alguns são direto ao ponto: **vou prestar para Ciência da Computação**, que é uma escolha fácil pelo simples destaque de "Computação" no nome. Eu que fiz Sistemas de Informação e estudei em uma sala onde uma parcela considerável **tinha Ciência da Compução como primeira opção**, alguns até considerando tentar transferência interna para o curso após alguns semestres.
 
-E levava um semestre para eles desistirem da ideia e se conformarem com o curso que estavam. **E um ou dois semestres a frente para entenderem que o curso que idealizavam quando queriam ir para computação era Sistemas de Informação o tempo todo!**.
+E não levava mais que um semestre para eles desistirem da ideia e se conformarem com o curso que estavam. **E um ou dois semestres a frente para entenderem que o curso que idealizavam quando queriam ir para computação era Sistemas de Informação o tempo todo!**.
 
 Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas diferente de alguns colegas que citei **meu curso sempre foi minha primeira opção**. O intuito desse post é compartilhar minha experiência sobre minha graduação, responder dúvidas que vestibulandos que tive contato tiraram comigo e quem sabe tirar esse peso da dúvida sobre qual curso ir das suas costas!
 <br/ >
@@ -117,8 +117,6 @@ Ao longo da graduação você provavelmente vai ter contato com uma infinidade d
 - Python
 - R
 
-<br/ >
-<br/ >
 <br/ >
 ## Você disse matemática? Preciso dela para trabalhar TI?
 <br/ >

@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  color: rgb(51, 65, 85)
+  color: rgb(51, 65, 85);
+  font-size: 1.4em
 }
 
 h1, h2, h3 {
@@ -67,28 +68,4 @@ ul.index {
 
 code {
   white-space: pre;
-}
-
-.atkinson-hyperlegible-regular {
-  font-family: "Atkinson Hyperlegible", sans-serif;
-  font-weight: 400;
-  font-style: normal;
-}
-
-.atkinson-hyperlegible-bold {
-  font-family: "Atkinson Hyperlegible", sans-serif;
-  font-weight: 700;
-  font-style: normal;
-}
-
-.atkinson-hyperlegible-regular-italic {
-  font-family: "Atkinson Hyperlegible", sans-serif;
-  font-weight: 400;
-  font-style: italic;
-}
-
-.atkinson-hyperlegible-bold-italic {
-  font-family: "Atkinson Hyperlegible", sans-serif;
-  font-weight: 700;
-  font-style: italic;
 }
