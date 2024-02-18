@@ -21,20 +21,11 @@ Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas 
 <br/ >
 Acho que vale uma apresentação antes de continuar com todo o papo (:
 
-- Ingressei em Sistemas de Informação na **Escola de Artes, Ciências e Humanidades da USP (EACH-USP)** em 2018
-- Em 2020, comecei meu primeiro estágio no Pagseguro Pagbank na área de ciência de dados
-- Em 2021, comecei a trabalhar como Engenheiro de Software Júnior no Itaú Unibanco. Quase 1 ano depois, fui promovido a Engenheiro de Software Pleno.
-- No final de 2021, me formei como **bacharel em Sistemas de Informação**
-- Em 2022, comecei a trabalhar como Engenheiro de Software Pleno no Nubank onde estou até hoje
+Ingressei em Sistemas de informação na EACH-USP em 2018, onde me formei em dezembro de 2021. Trabalho há cerca de 4 anos na área, e passei por empresas como PagSeguro, Itaú e Nubank (onde trabalho atualmente).
 
-Dito isso, sobrevivi a vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de modo que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
+Sobrevivi à vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de modo que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
 <br />
 <br />
-<center>
-    <img width="50%" src="assets/eu_faculdade.jpg" />
-    <p>Apresento a vocês: eu na faculdade</p>
-</center>
-
 
 <br/ >
 <br/ >
@@ -102,10 +93,16 @@ Definitivamente não. Várias pessoas entram já tendo algum curso técnico na �
 Minha turma teve uma particularidade onde tivemos um professor em Fundamentos de Sistemas de Informação que queria que criássemos um sistema completo (como site, jogo, aplicativo...) do zero durante o **primeiro semestre da graduação.** A notícia foi assustadora mas deu tudo muito certo e foi uma das matérias mais marcantes e gratificantes que já tive na graduação.
 
 <br/>
-<center>
-    <img width="100%" src="assets/comidinhas.png" />
-    <p>Meu primeiro site, em desastrosas linhas de PHP!</p>
-</center>
+    <center>
+        <img width="100%" src="assets/comidinhas.png" />
+        <p>Meu primeiro site, em desastrosas linhas de PHP!</p>
+    </center>
+<br/>
+<br/>
+    <center>
+        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/q07vD7sEAHg?si=wgpPGXrv_qg35EEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <p>Meu primeiro app, em desastrosas linhas de Javascript! (React Native e Node.js)</p>
+    </center>
 <br/>
 
 Ao longo da graduação você provavelmente vai ter contato com uma infinidade de linguagens e em algumas matérias vai ser livre para escolher a que gostar mais. Algumas das que tive contato:
@@ -175,5 +172,5 @@ A partir do terceiro ano da faculdade muita gente já começa a buscar estágio 
 <br/>
 <br/>
 <center>
-    <iframe width="100%" src="https://www.youtube.com/embed/i46xm8kqAC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="100%" height="500px" src="https://www.youtube.com/embed/i46xm8kqAC4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
