@@ -8,7 +8,17 @@ Tags: each-usp
     <p>EACH-USP, campus onde me formei bacharel em Sistemas de Informação</p>
 </center>
 <br/>
-###
+## Sobre esse post
+
+Escrevi esse post pela primeira vez em 2022, quando alguns amigos me falaram que o curso de computação foi um dos mais concorridos na FUVEST.
+
+Desde então tenho atualizado ele sempre que possível e divulgado para vestibulandos com o intuito de ajudá-los a esclarecer algumas dúvidas comums a todos que possuem interesse em entrar na área, com focos naqueles que estão estudando para conseguir uma vaga na USP.
+
+Tudo escrito nesse post é baseado na minha experiência pessoal e na de amigos próximos que estão na área, então não considere nada aqui como uma verdade absoluta :)
+<br/>
+<br/>
+<br/>
+## Introdução
 
 Um dos primeiros problemas que o vestibulando que quer ingressar na área é qual curso escolher. Alguns são direto ao ponto: **vou prestar para Ciência da Computação**, que é uma escolha fácil pelo simples destaque de "Computação" no nome. Eu que fiz Sistemas de Informação e estudei em uma sala onde uma parcela considerável **tinha Ciência da Compução como primeira opção**, alguns até considerando tentar transferência interna para o curso após alguns semestres.
 
@@ -22,9 +32,9 @@ Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas 
 <br/ >
 Acho que vale uma apresentação antes de continuar com todo o papo (:
 
-Ingressei em Sistemas de informação na EACH-USP em 2018, onde me formei em dezembro de 2021. Trabalho há cerca de 4 anos na área, e passei por empresas como PagSeguro, Itaú e Nubank (onde trabalho atualmente).
+Ingressei em Sistemas de informação na EACH-USP em 2018, onde me formei em dezembro de 2021. Trabalho há cerca de 4 anos na área e passei por empresas como PagSeguro, Itaú e Nubank (onde trabalho atualmente).
 
-Sobrevivi à vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de modo que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
+Sobrevivi à vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de forma que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
 <br />
 <br />
 <br/ >
@@ -32,11 +42,11 @@ Sobrevivi à vida acadêmica e adquiri uma vivência considerável no mercado de
 
 Bom, seria injusto eu opinar já que fiz apenas o segundo.
 
-De qualquer forma, meu objetivo era fazer USP pois sempre foi um sonho para mim. Na época que prestei vestibular, o IME-USP (onde é ofertado Ciência da Computação) não havia passado por uma reforma curricular de modo que o currículo era um pouco... *intimidador*. Lembro de ver uma série de matérias que envolviam matemática pesada e até física, e como meu objetivo era aprender programação e trabalhar com isso eu não via muito sentido.
+De qualquer forma, meu objetivo era fazer USP pois sempre foi um sonho para mim. Na época que prestei vestibular, o IME-USP. onde é possível cursar Ciência da Computação, não havia passado por uma reforma curricular de modo que o currículo era um pouco... *intimidador*. Lembro de ver uma série de matérias que envolviam matemática pesada e até física, e como meu objetivo era aprender programação e trabalhar com isso eu não via muito sentido.
 
-**> Mas cara, eu amo matemática!!**
+**> Mas eu amo matemática!**
 
-*(Eu preciso te avisar que muitas vezes esse amor termina no ensino superior... brincadeira! Eu acho...)*
+*(Eu preciso te avisar que muitas vezes esse amor termina no ensino superior... brincadeira! Mas acontece...)*
 <br/ >
 <br/ >
 
@@ -59,7 +69,7 @@ Voltando a falar sobre grade curricular, fiquei sabendo que a grade curricular d
 
 Eu super entendo se você torcer o nariz para elas só de ler os nomes, tem inclusive alunos (e professores) do curso que se pudessem se livrariam totalmente do Ciclo Básico. Eu mesmo não sou o maior fã mas no final das contas algumas matérias foram até bem divertidas. Lembro das aulas de SMD onde a professora falava de futurologia, foi um exercício bem divertido para tentarmos adivinhar o futuro da humanidade, ciência e tecnologia. Fazer um artigo projetando sobre o impacto das Fake News nas eleições de 2018 com alunos de Marketing e Gestão de Políticas Públicas também foi um exercício muito interessante.
 
-No geral, o saldo do Ciclo Básico terminou positivo pra mim, e sinto que ajudou a me mostrar o quanto tecnologia é uma área multidisciplinar e que **construímos código para pessoas e não para máquinas,** e podemos aplicar nossos conhecimentos para resolver problemas reais e tornar a sociedade um lugar um pouco melhor. Sei de alunos que inclusive foram trabalhar com tecnologia aplicada na política e meio ambiente.
+No geral, o saldo do Ciclo Básico terminou positivo pra mim, e sinto que ajudou a me mostrar o quanto tecnologia é uma área multidisciplinar, que **construímos código para pessoas e não para máquinas** e podemos aplicar nossos conhecimentos para resolver problemas reais e tornar a sociedade um lugar um pouco melhor. Sei de alunos que inclusive foram trabalhar com tecnologia aplicada na política e meio ambiente.
 <br/ >
 <br/ >
 <br/ >
@@ -153,7 +163,9 @@ Se eu voltasse no tempo, continuaria escolhendo a EACH pois dois motivos:
 1. Um estritamente pessoal, onde eu não teria condições de arcar com os custos de morar sozinho em São Carlos
 2. Outro é pelo fato da EACH ser em São Paulo onde há muito mais oportunidades de estágio e emprego no geral com salários muito competitivos
 
-Esse segundo ponto tem um detalhe importante: **a pandemia pode ter mudado e muito essa situação**. Na época que eu entrei na faculdade trabalho presencial ainda era a norma, mas como todos se lembram em 2020 por conta do coronavírus a oferta de trabalhos remotos e híbridos aumentou muito! Eu mesmo trabalhei MUITO mais remotamente que presencialmente até hoje.
+Esse segundo ponto tem um detalhe importante: **a pandemia pode ter mudado e muito essa situação**. Na época que eu entrei na faculdade trabalho presencial ainda era a norma, mas como todos se lembram em 2020 por conta do coronavírus a oferta de trabalhos remotos e híbridos aumentou muito! Eu mesmo trabalhei MUITO mais remotamente que presencialmente até hoje.*
+
+*Atualização (2024): Pós pandemia, a tendência no mercado é que as vagas remotas estão ficando cada vez mais escassas, então **na minha opinião** ficar próximo da capital volta a ser uma vantagem.
 <br/ >
 <br/ >
 <br/ >
