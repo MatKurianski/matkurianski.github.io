@@ -17,6 +17,7 @@ E levava um semestre para eles desistirem da ideia e se conformarem com o curso 
 Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas diferente de alguns colegas que citei **meu curso sempre foi minha primeira opção**. O intuito desse post é compartilhar minha experiência sobre minha graduação, responder dúvidas que vestibulandos que tive contato tiraram comigo e quem sabe tirar esse peso da dúvida sobre qual curso ir das suas costas!
 <br/ >
 <br/ >
+<br/ >
 ## Quem sou eu?
 <br/ >
 Acho que vale uma apresentação antes de continuar com todo o papo (:
@@ -26,14 +27,12 @@ Ingressei em Sistemas de informação na EACH-USP em 2018, onde me formei em dez
 Sobrevivi à vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de modo que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
 <br />
 <br />
-
-<br/ >
 <br/ >
 ## Afinal, Ciência da Computação ou Sistemas de Informação?
 
 Bom, seria injusto eu opinar já que fiz apenas o segundo.
 
-De qualquer forma, meu objetivo era fazer USP pois sempre foi um sonho para mim. Na época que prestei o IME-USP (onde é ofertado Ciência da Computação) não havia passado por uma reforma curricular de modo que o currículo era um pouco... *intimidador*. Lembro de ver uma série de matérias que envolviam matemática pesada e até física, e como meu objetivo era aprender programação e trabalhar com isso eu não via muito sentido.
+De qualquer forma, meu objetivo era fazer USP pois sempre foi um sonho para mim. Na época que prestei vestibular, o IME-USP (onde é ofertado Ciência da Computação) não havia passado por uma reforma curricular de modo que o currículo era um pouco... *intimidador*. Lembro de ver uma série de matérias que envolviam matemática pesada e até física, e como meu objetivo era aprender programação e trabalhar com isso eu não via muito sentido.
 
 **> Mas cara, eu amo matemática!!**
 
@@ -63,7 +62,7 @@ Eu super entendo se você torcer o nariz para elas só de ler os nomes, tem incl
 No geral, o saldo do Ciclo Básico terminou positivo pra mim, e sinto que ajudou a me mostrar o quanto tecnologia é uma área multidisciplinar e que **construímos código para pessoas e não para máquinas,** e podemos aplicar nossos conhecimentos para resolver problemas reais e tornar a sociedade um lugar um pouco melhor. Sei de alunos que inclusive foram trabalhar com tecnologia aplicada na política e meio ambiente.
 <br/ >
 <br/ >
-
+<br/ >
 ## O que eu vou aprender na faculdade de Sistemas de Informação?
 <br/ >
 O curso é muito completo mas também generalista. Isso quer dizer que você vai ser exposto a uma grande variedade de conteúdos mas sem se aprofundar muito em certos assuntos. Honestamente, acredito que isso é uma grande vantagem visto que você terá uma base generalista onde poderá se aprofundar em alguma área de interesse, sendo por meio de optativas, estudo por fora ou estágio na área.
@@ -85,7 +84,7 @@ Segue algumas matérias do curso:
 A grade curricular completa com descrições mais úteis [você encontra aqui.](https://uspdigital.usp.br/jupiterweb/listarGradeCurricular?codcg=86&codcur=86200&codhab=204&tipo=N)
 <br/ >
 <br/ >
-
+<br/ >
 ## Preciso saber programar antes de ir? Quais linguagens de programação o curso aborda?
 <br/ >
 Definitivamente não. Várias pessoas entram já tendo algum curso técnico na área mas também há várias que assim como eu chegaram totalmente cruas e seguem com o curso sem problema nenhum!
@@ -120,6 +119,7 @@ Ao longo da graduação você provavelmente vai ter contato com uma infinidade d
 
 <br/ >
 <br/ >
+<br/ >
 ## Você disse matemática? Preciso dela para trabalhar TI?
 <br/ >
 Sendo honesto, para muita gente precisa mais para passar nas provas.
@@ -145,6 +145,7 @@ E outras...
 Agora, 1 ano depois de formado eu passo longe de praticamente todo o conteúdo que aprendi nessas matérias. No máximo uma ou outra coisa que acabo vendo analistas de negócio ou cientistas de dados de onde trabalho usando, mas de longe e sem necessidade nenhuma de eu entender.
 <br/ >
 <br/ >
+<br/ >
 ## Por que EACH e não ICMC?
 <br/ >
 Meu melhor amigo estudou no Instituto de Ciências Matemáticas e de Computação da USP (ICMC) e é um defensor fanático do campus. Considerando que eu também faço meu papel de defensor da EACH, acho que o mínimo que se pode concluir é que ambas as unidades são muito boas!
@@ -155,6 +156,7 @@ Se eu voltasse no tempo, continuaria escolhendo a EACH pois dois motivos:
 2. Outro é pelo fato da EACH ser em São Paulo onde há muito mais oportunidades de estágio e emprego no geral com salários muito competitivos
 
 Esse segundo ponto tem um detalhe importante: **a pandemia pode ter mudado e muito essa situação**. Na época que eu entrei na faculdade trabalho presencial ainda era a norma, mas como todos se lembram em 2020 por conta do coronavírus a oferta de trabalhos remotos e híbridos aumentou muito! Eu mesmo trabalhei MUITO mais remotamente que presencialmente até hoje.
+<br/ >
 <br/ >
 <br/ >
 ## Falando em estágio, como é o mercado de trabalho?
