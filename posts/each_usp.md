@@ -32,7 +32,7 @@ Assim como deve ser seu caso, tive várias dúvidas na época de vestibular mas 
 <br/ >
 Acho que vale uma apresentação antes de continuar com todo o papo (:
 
-Ingressei em Sistemas de informação na EACH-USP em 2018, onde me formei em dezembro de 2021. Trabalho há cerca de 4 anos na área e passei por empresas como PagSeguro, Itaú e Nubank (onde trabalho atualmente).
+Ingressei em Sistemas de informação na EACH-USP em 2018, onde me formei em dezembro de 2021. Trabalho há cerca de 4 anos na área e passei por empresas como PagSeguro, Itaú, Nubank e Uber (onde trabalho atualmente).
 
 Sobrevivi à vida acadêmica e adquiri uma vivência considerável no mercado de trabalho de forma que pude experimentar como é ser um profissional de tecnologia da informação na "vida real". E o saldo que tiro disso foi que **eu não poderia estar mais satisfeito com a escolha de carreira que eu fiz.**
 <br />
