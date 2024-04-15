@@ -109,7 +109,7 @@ Minha turma teve uma particularidade onde tivemos um professor em Fundamentos de
 <br/>
 <br/>
     <center>
-        <iframe width="100%" height="400px" src="https://www.youtube.com/embed/q07vD7sEAHg?si=wgpPGXrv_qg35EEQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="400px" src="https://www.youtube.com/watch?v=C43_yLYL130" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
         <p>Meu primeiro app, em desastrosas linhas de Javascript! (React Native e Node.js)</p>
     </center>
 <br/>
