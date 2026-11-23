@@ -3,7 +3,7 @@ body {
   font: 400 16px/1.5 -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol";
   margin: 0;
   padding: 0;
-  color: rgb(51, 65, 85)
+  color: rgb(51, 65, 85);
 }
 
 h1, h2, h3 {
@@ -16,6 +16,7 @@ a {
 
 .wrapper {
   max-width: 800px;
+  padding: 0px 15px;
   margin: 0 auto 0 auto;
 }
 
@@ -68,4 +69,22 @@ ul.index {
 
 code {
   white-space: pre;
+}
+
+figure {
+  margin: 1.25em 0;
+  text-align: center;
+}
+
+figure img,
+figure iframe {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  margin: 0 auto;
+  border: 0;
+}
+
+figcaption {
+  margin-top: 0.4em;
 }

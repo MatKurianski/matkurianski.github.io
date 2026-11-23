@@ -1,0 +1,78 @@
+{%- if page.layout == "post" -%}
+  {%- assign page_title = page.title -%}
+{%- elsif page.title -%}
+  {%- capture page_title -%}{{ site.title }} - {{ page.title }}{%- endcapture -%}
+{%- else -%}
+  {%- assign page_title = site.title -%}
+{%- endif -%}
+{%- if page.layout == "post" -%}
+  {%- assign page_description = "" -%}
+{%- elsif page.tag -%}
+  {%- capture page_description -%}Posts tagged "{{ page.tag }}" - {{ site.description }}{%- endcapture -%}
+{%- elsif page.title -%}
+  {%- capture page_description -%}{{ page.title }} - {{ site.description }}{%- endcapture -%}
+{%- else -%}
+  {%- assign page_description = site.description -%}
+{%- endif -%}
+<!DOCTYPE html>
+<html lang="{{ site.lang }}">
+  <head>
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id={{ site.google_analytics }}"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+
+      gtag('config', '{{ site.google_analytics }}');
+    </script>
+    <title>{{ page_title | escape }}</title>
+    <meta charset="utf-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link type="application/atom+xml" rel="alternate" href="{{ '/atom.xml' | relative_url }}" title="{{ site.title | escape }}">
+    <link rel="stylesheet" href="{{ '/style.css' | relative_url }}">
+
+    <!-- Social sharing (Facebook, Twitter, LinkedIn, etc.) -->
+    <meta name="title" content="{{ page_title | escape }}">
+    <meta name="twitter:title" content="{{ page_title | escape }}">
+    <meta property="og:title" content="{{ page_title | escape }}">
+    <meta property="og:type" content="website">
+    {%- if page_description != "" %}
+    <meta name="description" content="{{ page_description | escape }}">
+    <meta name="twitter:description" content="{{ page_description | escape }}">
+    <meta property="og:description" content="{{ page_description | escape }}">
+    {%- endif %}
+    <meta name="twitter:url" content="{{ page.url | absolute_url }}">
+    <meta property="og:url" content="{{ page.url | absolute_url }}">
+    <meta name="twitter:card" content="summary">
+  </head>
+  <body>
+
+    <div class="site-header">
+      <div class="wrapper">
+        <div class="site-nav">
+          <a class="page-link" href="{{ '/archive.html' | relative_url }}">Archive</a>
+          <a class="page-link" href="{{ '/tags/index.html' | relative_url }}">Tags</a>
+          <a class="page-link" href="{{ '/atom.xml' | relative_url }}">Feed</a>
+        </div>
+        <div>
+          <h1 class="site-title">
+            <a class="page-link" href="{{ '/' | relative_url }}">{{ site.title | escape }}</a>
+          </h1>
+          <p>{{ site.description }}</p>
+        </div>
+      </div>
+    </div>
+
+    <div class="wrapper">
+
+      {{ content }}
+
+      {%- unless page.skip_archive %}
+      <div style="margin-bottom: 20px; float: right;">
+        <a class="page-link" href="{{ '/archive.html' | relative_url }}">Archive</a>
+      </div>
+      {%- endunless %}
+    </div>
+  </body>
+</html>

@@ -1,0 +1,16 @@
+---
+layout: default
+title: Tags
+permalink: /tags/index.html
+skip_archive: true
+---
+<div style="width: 600px">
+    <h1>Tags</h1>
+    <ul class="index">
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+            {% capture tag_url %}/tags/{{ tag[0] | slugify }}.html{% endcapture %}
+            <li><span><a href="{{ tag_url | relative_url }}">{{ tag[0] }}</a> - {{ tag[1].size }} post{% if tag[1].size != 1 %}s{% endif %}</span></li>
+        {% endfor %}
+    </ul>
+</div>

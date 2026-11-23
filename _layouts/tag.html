@@ -1,0 +1,11 @@
+---
+layout: default
+---
+<div style="width: 600px">
+    <h1>Tag - {{ page.tag }}</h1>
+    <ul class="index">
+        {%- for post in site.tags[page.tag] %}
+            <li><span><a href="{{ post.url }}">{{ post.title }}</a> - {{ post.date | date: "%Y-%m-%d" }}</span></li>
+        {%- endfor %}
+    </ul>
+</div>

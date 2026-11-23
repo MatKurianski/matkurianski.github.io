@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<h1>{{ page.title }}</h1>
+{{ content }}
+<p><i>Published: {{ page.date | date: "%Y-%m-%d" }}</i></p>
+{%- if page.tags.size > 0 %}
+<p>
+  <i>
+  Tagged:
+  {%- for tag in page.tags %}
+  <span class="tag">
+    {%- capture tag_url %}/tags/{{ tag | slugify }}.html{% endcapture %}
+    <a href="{{ tag_url | relative_url }}">{{ tag }}</a>
+  </span>
+  {%- endfor %}
+  </i>
+</p>
+{%- endif %}
