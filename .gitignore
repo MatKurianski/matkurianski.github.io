@@ -2,3 +2,7 @@
 .lsp/
 .clj-kondo/
 .work/
+_site/
+.jekyll-cache/
+vendor/
+.bundle/

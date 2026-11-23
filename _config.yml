@@ -1,0 +1,36 @@
+title: MatKurianski's Blog
+description: A random blog from a random IT guy
+author: MatKurianski
+lang: pt-BR
+url: https://matkurianski.github.io
+baseurl: ""
+permalink: /:title.html
+timezone: America/Sao_Paulo
+
+# Local layouts in _layouts/ are the site. Minima is not enabled,
+# so a theme cannot override them.
+theme: null
+
+google_analytics: G-X0KGJXMBZL
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  smart_quotes: ["apos", "apos", "quot", "quot"]
+  typographic_symbols:
+    hellip: "..."
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: post
+
+exclude:
+  - vendor
+  - .bundle
+  - README.md
+  - Gemfile
+  - Gemfile.lock

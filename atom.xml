@@ -1,0 +1,25 @@
+---
+permalink: /atom.xml
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="{{ site.lang }}">
+  <title>{{ site.title | xml_escape }}</title>
+  <link href="{{ '/atom.xml' | absolute_url }}" rel="self"/>
+  <link href="{{ '/' | absolute_url }}"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>{{ '/' | absolute_url }}</id>
+  <author>
+    <name>{{ site.author | xml_escape }}</name>
+  </author>
+  {% assign origin = site.url | append: site.baseurl %}
+  {% assign src_to = 'src="' | append: origin | append: '/' %}
+  {% for post in site.posts %}
+  <entry>
+    <id>{{ post.url | absolute_url }}</id>
+    <link href="{{ post.url | absolute_url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <content type="html"><![CDATA[{% assign html = post.content | replace: 'src="/', src_to %}{{ html }}]]></content>
+  </entry>
+  {% endfor %}
+</feed>
